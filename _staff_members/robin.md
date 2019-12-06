@@ -1,7 +1,7 @@
 ---
-name: Robin Herrera
-position: CEO
+name: elsa
+position: masulsa
 image_path: https://source.unsplash.com/collection/139386/604x604?a=.png
-twitter_username: CloudCannon
+twitter_username: elsa
 blurb: Robin is often found tending to her majestic vegetable garden.
 ---
