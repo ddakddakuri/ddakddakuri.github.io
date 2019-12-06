@@ -1,7 +1,7 @@
 ---
-name: Tom Wilson
-position: CTO
+name: zzzzz
+position: zzzzz
 image_path: https://source.unsplash.com/collection/139386/605x605?a=.png
-twitter_username: CloudCannon
+twitter_username: zzzzz
 blurb: Tom likes to travel and has visited over 50 countries.
 ---
